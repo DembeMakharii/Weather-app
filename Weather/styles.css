@@ -66,4 +66,5 @@ transition: 0.25s border;
    top: 50%;
    transform: translateY(-50%);
    background: none;
+   display: flex;
 }
