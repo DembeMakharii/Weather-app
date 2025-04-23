@@ -56,3 +56,7 @@ transition: 0.25s border;
 .city-input::placeholder {
     color: rgba(255, 255, 255, 0.75);
 }
+
+.search-btn {
+   position: absolute; 
+}
