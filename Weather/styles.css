@@ -24,5 +24,6 @@ backdrop-filter: blur(15px);
 }
 .main-container {
     border: solid;
-    
+    width: 300px;
+
 }
