@@ -30,5 +30,6 @@ backdrop-filter: blur(15px);
     border: solid;
     width: 300px;
     height: 496px;
+    z-index: 1;
 
 }
