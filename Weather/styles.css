@@ -58,5 +58,6 @@ transition: 0.25s border;
 }
 
 .search-btn {
-   position: absolute; 
+   position: absolute;
+   right: 16px;
 }
