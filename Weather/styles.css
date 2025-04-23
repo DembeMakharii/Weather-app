@@ -39,6 +39,9 @@ backdrop-filter: blur(15px);
 
 }
 /* Input container */
+.input-container{
+   position: relative; 
+}
 .city-input {
 width: 100%;
 padding: 10px 16px;
@@ -61,4 +64,5 @@ transition: 0.25s border;
    position: absolute;
    right: 16px;
    top: 50%;
+   transform: translateY(-50%);
 }
