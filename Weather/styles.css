@@ -65,4 +65,5 @@ transition: 0.25s border;
    right: 16px;
    top: 50%;
    transform: translateY(-50%);
+   background: none;
 }
