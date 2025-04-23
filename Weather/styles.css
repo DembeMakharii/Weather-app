@@ -17,4 +17,6 @@ body{
 body:before{
 content: "";
 position: absolute;
+width: 100%;
+
 }
