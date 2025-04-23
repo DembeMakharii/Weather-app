@@ -16,4 +16,5 @@ body{
 }
 body:before{
 content: "";
+position: absolute;
 }
