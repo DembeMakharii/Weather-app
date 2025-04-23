@@ -38,3 +38,7 @@ backdrop-filter: blur(15px);
 
 
 }
+/* Input container */
+.city-input {
+width: 100%;
+}
