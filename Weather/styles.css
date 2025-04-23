@@ -22,3 +22,7 @@ height: 100dvh;
 background: rgba(0, 0, 0, 0.15);
 backdrop-filter: blur(15px);
 }
+.main-container {
+    border: solid;
+    
+}
