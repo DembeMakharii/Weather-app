@@ -51,6 +51,7 @@ background:rgba(0, 0, 0, 0.15);
 outline: none;
 font-weight: 500;
 transition: 0.25s border;
+padding-right: 45px;
 
 }
 .city-input:focus {
@@ -69,6 +70,6 @@ transition: 0.25s border;
     display: flex;
     border: none;
     cursor: pointer;
-    
+
 
 }
