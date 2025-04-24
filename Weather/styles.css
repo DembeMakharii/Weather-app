@@ -68,5 +68,7 @@ transition: 0.25s border;
     background: none;
     display: flex;
     border: none;
+    cursor: pointer;
+    
 
 }
