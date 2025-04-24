@@ -61,10 +61,12 @@ transition: 0.25s border;
 }
 
 .search-btn {
-   position: absolute;
-   right: 16px;
-   top: 50%;
-   transform: translateY(-50%);
-   background: none;
-   display: flex;
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    display: flex;
+    border: none;
+
 }
